@@ -8,14 +8,14 @@ My name is Anh. I am currently a second-year Information Technology student at M
 ### 👇 Click on the icons to see my projects that reflects the skills 👇 
 ---
 
-### Programming
+### Programming (click the icon to see list of projects)
 [![image](https://github.com/user-attachments/assets/8fda904d-bc9a-419f-9c55-5767d5fc38e0)](https://github.com/stars/anh-tq-huynh/lists/python) [![image](https://github.com/user-attachments/assets/5e671ac9-343e-479c-a2a3-fe7f4c8613e2)](https://github.com/stars/anh-tq-huynh/lists/javascript-html-css) [![image](https://github.com/user-attachments/assets/b1053301-8a72-43c1-b8d5-734cc616c13c)](https://github.com/stars/anh-tq-huynh/lists/javascript-html-css) [<img src="https://github.com/user-attachments/assets/f2e1e3f6-e461-4a44-ad2f-3b3e53cfba1b" width="45" alt="image">](https://github.com/stars/anh-tq-huynh/lists/javascript-html-css) [<img src="https://github.com/user-attachments/assets/b5716ac5-28e2-4d0b-80ee-8525c2c087b5" width="90" alt="image">](https://github.com/stars/anh-tq-huynh/lists/relational-database)[![image](https://github.com/user-attachments/assets/267e056e-2039-41bd-8c75-b105e9f1b2e1)](https://gitlab.com/anh-tq-huynh)
 
-### Video editing
+### Video editing (click the icon to see list of projects)
 [<img src="https://github.com/user-attachments/assets/d9b90925-4fe2-465e-afa0-726910de31ff" width="64" alt="image">](https://www.youtube.com/playlist?list=PLm25O9P147jj9LCuqw3Uy5ucqHtSwXi3d) [<img src="https://github.com/user-attachments/assets/d56dc36e-9b62-4fc9-a463-3b1143c6ce5c" width="64" alt="image">](https://www.youtube.com/playlist?list=PLm25O9P147jj9LCuqw3Uy5ucqHtSwXi3d)
 
 
-### Illustrative/Graphic/Web design
+### Illustrative/Graphic/Web design (click the icon to see list of projects)
 [<img src="https://github.com/user-attachments/assets/85d7b638-f4b4-4766-b279-6786853950e4" width="64" alt="image">](https://ashleyanhht.wixsite.com/my-site-1) [<img src="https://github.com/user-attachments/assets/b5f1b33b-56f3-4e41-8461-ee2a605e309f" width="64" alt="image">](https://ashleyanhht.wixsite.com/my-site-1) [<img src="https://github.com/user-attachments/assets/4aa1c28a-6a04-4978-9983-0d1510a1d63b" width="64" alt="image">](https://ashleyanhht.wixsite.com/my-site-1) [<img src="https://github.com/user-attachments/assets/3629af0c-1340-43a9-ac39-c86c7c9e7528" width="44" alt="image">](https://ashleyanhht.wixsite.com/my-site-1)
 
 ## I'm currently learning
