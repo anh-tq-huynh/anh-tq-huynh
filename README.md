@@ -37,7 +37,7 @@ My name is Anh. I am currently a second-year Information Technology student at M
 ## Languages
 - Native: <img src="https://github.com/user-attachments/assets/bc7bdeb3-e01e-4d37-8857-253a8fe43305" width = 20>
 - Proficient: <img src="https://github.com/user-attachments/assets/aa8d8bc9-8894-4a56-90bc-fef19dbff96e" width = 20>
-- Learning (A2 level): <img src="https://github.com/user-attachments/assets/c8c3e2f8-cc5c-4365-9e22-73a89f4c8d05" width = 20>
+- Learning (A3 level): <img src="https://github.com/user-attachments/assets/c8c3e2f8-cc5c-4365-9e22-73a89f4c8d05" width = 20>
 
 ## Fun facts
 - I'm confident in my cooking 🍖 and baking 🍪 skills
