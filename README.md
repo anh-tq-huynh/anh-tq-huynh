@@ -26,7 +26,8 @@ My name is Anh. I am currently a second-year Information Technology student at M
 
 
 ## I'm currently learning
-![java-image](https://github.com/user-attachments/assets/da89408d-a7f4-442a-b0dd-83d98b32bb8e)
+- React.js, Node.js
+- Apply skills into personal projects
 
 
 ## I'm looking for
